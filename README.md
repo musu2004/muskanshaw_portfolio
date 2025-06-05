@@ -28,7 +28,7 @@ A modern, responsive portfolio website built with HTML, CSS, and JavaScript. Fea
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sp201004/surya_portfolio.git
+   git clone hhttps://github.com/musu2004/muskanshaw_portfolio.git
    ```
 
 2. Navigate to the project directory:
