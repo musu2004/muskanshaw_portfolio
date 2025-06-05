@@ -34,7 +34,7 @@ A modern, responsive portfolio website built with HTML, CSS, and JavaScript. Fea
 2. Navigate to the project directory:
 
    ```bash
-   cd surya_portfolio.github.io
+   cd muskanshaw_portfolio.github.io
    ```
 
 3. Open `docs/index.html` in your browser to view the site locally
