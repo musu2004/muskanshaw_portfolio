@@ -79,5 +79,5 @@ Your site will be live at `https://yourusername.github.io`
 This project is open source and available under the [MIT License](LICENSE).
 
 <div align="center">
-Built with ❤️ by the Surya
+Built with ❤️ by the Muskan
 </div>
